@@ -2,7 +2,7 @@ Project title:
 An In-depth Analysis of Public Sentiment: Reddit Discourse on the Israel-Palestine Conflict
 
 Motivation:
-The "Reddit Discourse on the Israel-Palestine Conflict" project employed NLP techniques to analyze sentiments expressed in Reddit discussions on this topic. It aimed to uncover the evolution of public sentiment during the conflict.
+The "Reddit Discourse on the Israel-Palestine Conflict" project as part of NLP Internship at  Vespa.ai, Norway employed NLP techniques to analyze sentiments expressed in Reddit discussions on this topic. It aimed to uncover the evolution of public sentiment during the conflict.
 
 1. Introduction:
    - Focused on analyzing public sentiment towards the Israel-Palestine conflict using NLP techniques. Aimed to reveal how sentiment evolved during the conflict.
